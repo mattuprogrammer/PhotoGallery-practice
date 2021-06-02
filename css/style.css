@@ -186,4 +186,8 @@ footer {
     width: 50vw;
     height: 80vh;
   }
+  .lum-gallery-button:after {
+  width: 10vw;
+  height: 10vw;
+}
 }
