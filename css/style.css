@@ -106,7 +106,7 @@ header video {
 
 /* LIGHTBOX LUMINOUS */
 .lum-lightbox.lum-open {
-  z-index: 4;
+  z-index: 5;
 }
 .lum-lightbox-inner img {
   max-width: 90vw;
@@ -177,7 +177,7 @@ footer {
     box-shadow: 0 0 2rem rgba(0, 0, 0, 0.8);
     filter: sepia(0);
     transform: scale(1.2);
-    z-index: 3;
+    z-index: 4;
     position: relative;
   }
 
