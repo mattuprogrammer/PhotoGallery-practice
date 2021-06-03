@@ -173,11 +173,11 @@ footer {
 
   /* LIGHTBOX LUMINOUS */
   .lum-lightbox-inner img {
-    width: 50vw;
-    height: 80vh;
+    width: 30vw;
+    height: 88vh;
   }
   .lum-gallery-button:after {
-    width: 3vw;
-    height: 3vw;
+    width: 2vw;
+    height: 2vw;
   }
 }
